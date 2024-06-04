@@ -1,5 +1,5 @@
 
-<p align="center">I ❤️ solve great challenges using tech.<br><br> Olá, meu nome é Maria Luiza, tenho 19 anos, no momento, estou querendo entrar para desenvolvimento Web, tenho desejo de aprender<strong> coisas novas</strong> e contribuir para o que for estabelecido. Trabalho em uma empresa de Software como analista de TI. Hoje, estou focada na faculdade de Analise e desenvolvimento de Sistemas<strong>, e nos meus estudos de Front-End</strong> &nbsp;
+<p align="center">I ❤️ solve great challenges using tech.<br><br> Olá, meu nome é Maria Luiza, tenho 19 anos, no momento, estou estudando infraestrutra de Ti e estudo desenvolvimento de Softwares, tenho desejo de aprender<strong> coisas novas</strong> e contribuir para o que for estabelecido. Hoje, estou focada na faculdade de Analise e desenvolvimento de Sistemas<strong>, e nos meu estudos de Infraestrutura em TI</strong> &nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=xXLuizaXx&theme=radical&mode=weekly" />
