@@ -1,8 +1,14 @@
 
 <p align="center">I ❤️ solve great challenges using tech.<br><br> Olá, meu nome é Maria Luiza, tenho 19 anos, no momento, estou estudando infraestrutra de Ti e desenvolvimento de Softwares, tenho desejo de aprender<strong> coisas novas</strong> e contribuir para o que for estabelecido. Hoje, estou focada na faculdade de Analise e desenvolvimento de Sistemas<strong>, e nos meu estudos de Infraestrutura de TI.</strong> &nbsp;
 
+💼 Experiência Profissional:
 
- 
+- Unimake Software: Atuei como Analista de TI, fornecendo suporte ao cliente e garantindo a resolução eficiente de problemas técnicos.
+  
+ 📚 Interesses:
+- Continuamente aprimorar meus conhecimentos em infraestrutura e redes.
+- Explorar novas tecnologias e metodologias ágeis.
+- Desenvolver projetos que possam impactar positivamente a vida das pessoas.
  &nbsp;
  &nbsp;
 
